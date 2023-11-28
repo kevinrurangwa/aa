@@ -1,0 +1,10 @@
+a{
+	padding: 20px;
+}
+body{
+	background-color: beige;
+	font-weight: bold;
+}
+fieldset{
+	width: 400px;
+}
